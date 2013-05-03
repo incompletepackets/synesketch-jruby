@@ -8,7 +8,7 @@ is a library that can extract emotional context from text.
 
 Add this line to your application's Gemfile:
 
-    gem 'synesketch'
+    gem 'synesketch-jruby'
 
 And then execute:
 
@@ -16,7 +16,7 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install synesketch
+    $ gem install synesketch-jruby
 
 ## Usage
 
